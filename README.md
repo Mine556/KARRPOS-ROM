@@ -29,4 +29,30 @@
 <hr>
 <h2>Deeply into the KARRP-OS-ROM ( KARP )</h2>
 # started by date
+-- I started by 13.3.2023 , building and designing this OS/ROM , currently in Alpha version(so there is some bugs and not-working-properly things and other cons in the OS/ROM itself..)
+<br>
+-- I am planning to create an Beta-testing stage by year 2025
+<br>
+# Features of KARRP(KARP)<br>
+-- in future I plan to add features like "Samsung-DEX" -- which is curreently on small part of devices like S, NOTE (S20-FE...,NOTE-8) series, but its not supported on series like M(M21...), A(..A7),J(J5-2016)... the "pc-mode" will be called "KARRP(KARP)-DEX --> KARRP(KARP) DesktopEXperience" --which will be also OPSCR like other stuff in the OS/ROM<br>
+-- OPSCR drivers (for sensors like "flashlight", "camera", "LUX/Light-sensor", "Proximity-sensor" "Gyro-Accelerom-Barom-sensors", "USB" idk what else next so...)<br>
+-- OPSCR firmware(which can be flashable via OrangFOX /TWRP /CWM Custom Recovery)<br>
+-- OPSCR OS/ROM<br>
+-- OPSCR-DEX--DesktopEXperience -- "pc-mode"<br>
+***More about PC-mode feature:<br>
+-- if device is >6" (over 6 inch ) it will do : "the "pc-mode" can do ..if device is plugged into HDMI cable it will shows-up and KARRP(KARP)DEX mode on external monitor/ display and also if device is not connected to external monitor/ display via HDMI cable and meets the req. like ">6inch" it can display / switch to KARRP(KARP)DEX and display this mode on it-self<br>
+-- if device doesn meet the req. like bigger screen ">6inch" it can display "pc-mode" externally, but not internally --> this can be turned ON in "secret" menu that // where u can change the DPI of external / internal display or as i said before turn of feature "SMALL-SCREEN(on/off)" and display on ur small device like 4.7" or 5" an display-DEX-pc-mode" .. which I dont recomeded it bcs it small and harder to click on icons ...but i can make it accessible to everyone that wants to try it<br>
+***
+-- Waydroid --  for KLRRP(Linux-BASED OS/ROM) currently isn't in development yet ...<br>
+-- Advanced Charging -- will be also OPSCR<br>
+-- can be with or without root (with ROOT like SuperSU/ Magisk support), by "stock" NOT-ROOTED --for apps like SMART-BANKING, MC-DONALDS-APP, GOOGLE-PAY etc...<br>
+-- Comunity packs / tweaks ... like in Magisk u have Modules<br>
+-- Cloud-Accessible like Ubuntu-Oracle..or Google-CLOUD, or MS-Azure , not only CLI, but with GUI and elements like on linux (I mean ALT+F1... --different terminal-windows)<br>
+-- KARRP(KARP)-LIVE -- installable on USB-flashdisk "Live-Distro"<br>
+-- KARRP(KARP)-Tiny -- for "emblement" systems like small devices which doesnt have enaugh processing-power...<br>
+-- KARRP(KARP)-CLOUD -- for cloud systems (*AMD64(x64/x64_x86), I386(32_x86), ARM-64_x86, or ARM-32_x86, AARCH64(ARM),...comming soon for MIPS)<br>
+-- KARRP(KARP)-IoT -- for Industrial / Comercial usage -- lightweight, easy to use , CLI/GUI interface <br>
+-- KARRP(KARP)-Wearables -- for smartWatches, Hololens, smartRings, smartAntenas , implantants ...etc<br>
 
+
+<br>
