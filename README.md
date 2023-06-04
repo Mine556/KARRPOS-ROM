@@ -1,7 +1,7 @@
 # KARRPOS-ROM
--- Kustom Android Remote Rich Prjkt OS - ROM 
+-- Kustom Arch Remote Rich Prjkt OS - ROM 
 <br>
--- I started this idea about having a custom rom back in 2014-15, but I dindt have enaugh knowledge about how to make a custom rom and how to root devices or flashing custom recoveries ,,, etc..
+-- I started this idea about having a custom os/rom back in 2014-15, but I dindt have enaugh knowledge about how to make a custom rom and how to root devices or flashing custom recoveries ,,, etc..
 <br>
 -- And now I have some knowledge about android and Linux / Windows /Windows 10 Mobile and so on other OSs like iOS and its structure, how they works , where is its bugs, (exploitable features) and they cons or pros about having this and this OS... 
 <br>
@@ -12,8 +12,8 @@
 # K-ustom <br>
 -- Kustomizable like other Android ROMs (like EvolutionXOS,RR--ResurrectionRemixOS...etc...)
 <br>
-# A-ndroid  <br>
--- based on android Kernel / Lib. as its default bcs I just dont want to experiment with Linux build OS (distro) , I just wanted some OS that will work on ARM based devices natively , and linux is harder to use for BFU users so I decided to switch from LinuxKARP(KLRP) to Android-BasedKARP(KARP)...
+# A-rch  <br>
+-- based on Arch linux Kernel
 <br>
 # R-emote  <br>
 -- I always wanted to have my stuff with me on the road everywhere ... like it on Cloud-Based OS or Android device / Laptop(Linux/Windows) and so dont have to switch between other OSses.. and always have ONE main OS on the road so I can (be /will) connect like to  my Oracle Cloud-Based Ubuntu machine and have my stuff here, and it will be synced (docs, pictures/imgs, or videos) with my mobile device or even laptop (--devices will run KARP, to be succesfull to sync stuff)... now I wondering that I have very bad English I am using... sorry for that (I am just from Czechia..)
@@ -56,3 +56,18 @@
 
 
 <br>
+
+*** I rebuilded the idea from Android ROM to Arch Linux OS/ROM 
+with avaibility of these GUIs:
+-- MATE
+-- LXDE
+-- XFCE
+-- SXMO-DE-SWAY
+-- SXMO-DE-DWM
+-- CONSOLE
+-- PLASMA-DESKTOP
+-- PLASMA-MOBILE
+-- GNOME
+-- GNOME-MOBILE
+-- PHOSH
+-- ...
