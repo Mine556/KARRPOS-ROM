@@ -57,17 +57,17 @@
 
 <br>
 
-*** I rebuilded the idea from Android ROM to Arch Linux OS/ROM 
-with avaibility of these GUIs:
--- MATE
--- LXDE
--- XFCE
--- SXMO-DE-SWAY
--- SXMO-DE-DWM
--- CONSOLE
--- PLASMA-DESKTOP
--- PLASMA-MOBILE
--- GNOME
--- GNOME-MOBILE
--- PHOSH
+*** I rebuilded the idea from Android ROM to Arch Linux OS/ROM <br>
+with avaibility of these GUIs:<br>
+-- MATE <br>
+-- LXDE<br>
+-- XFCE<br>
+-- SXMO-DE-SWAY<br>
+-- SXMO-DE-DWM<br>
+-- CONSOLE<br>
+-- PLASMA-DESKTOP<br>
+-- PLASMA-MOBILE<br>
+-- GNOME<br>
+-- GNOME-MOBILE<br>
+-- PHOSH<br>
 -- ...
